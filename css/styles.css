@@ -1,0 +1,26 @@
+body {
+  font-family:comic;
+}
+
+h1 {
+  color:brown;
+  font-size:200px;
+  text-align:right;
+}
+
+h2 {
+  color: burlywood;
+}
+
+h3 {
+  color:peru;
+  font-size: 64px;
+}
+
+p {
+  color: papayawhip;
+}
+
+li {
+  color: sienna;
+}
