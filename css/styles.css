@@ -24,3 +24,7 @@ p {
 li {
   color: sienna;
 }
+
+img {
+  max-width: 50%;
+}
